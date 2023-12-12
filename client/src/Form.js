@@ -31,7 +31,7 @@ function Forms() {
   }, []);
 
   const handleSubmit = () => {
-    // Create an object with the form data
+    
     const formData = {
       textValue,
       selectedOption,
